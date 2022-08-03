@@ -1,22 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-h1 {
-  font-family: roboto;
-
-  text-align: center;
-}
-
-.Work {
-  color: chocolate;
-  background-color: black;
-}
-
-#aboutUs {
-  color: brown;
-  background-color: darkgrey;
-  border: 5px dashed brown;
-}
-
-.Work,
-#aboutUs {
-  font-weight: lighter;
+* {
+  box-sizing: border-box;
+  font-family: 'poppins';
+  padding: 0;
+  margin: 0;
 }
