@@ -86,3 +86,13 @@ span {
   height: 415px;
   border-radius: 10px;
 }
+#aboutUs {
+  margin-left: 45px;
+  word-spacing: 15px;
+  letter-spacing: 5px;
+}
+
+.videoAboutUs {
+  display: flex;
+  justify-content: space-between;
+}
