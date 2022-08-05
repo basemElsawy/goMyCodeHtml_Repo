@@ -186,6 +186,7 @@ form {
 textarea {
   margin-bottom: 10px;
   border-radius: 10px;
+  border: solid 3px #2f485f;
 }
 label {
   color: white;
@@ -193,9 +194,13 @@ label {
 
 .sectionCont {
   background-color: #2f485fc1;
-  margin-right: 500px;
-  margin-left: 500px;
+  margin-right: 450px;
+  margin-left: 450px;
   border-radius: 10%;
   padding: 30px;
+
   margin-bottom: 30px;
+}
+input {
+  border: solid 3px #2f485f;
 }
